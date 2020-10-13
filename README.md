@@ -1,6 +1,6 @@
-### Hi there 👋  
+## Hi! 👋 Welcome to my github profile! 
 
-> Software is like sex: it's better when it's free.
+> Talk is cheap. Show me the code.
 
 - I’m currently learning Java and Web Development.  
 - CS 2º semester - Currently learning Algorithms (with Java) and Web Development (HTML, CSS and JS).  
