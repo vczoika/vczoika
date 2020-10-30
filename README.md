@@ -8,7 +8,8 @@
 - My discord server for learning how to program: https://discord.gg/MZhUsmx (pt-br)  
 - Also learning how to use Linux, Windows made me dumb.  
 - Currently running Ubuntu 20.10.    
+- Completed 2020's Hacktoberfest.  
   
-![Vczoika's github stats](https://github-readme-stats.vercel.app/api?username=vczoika&show_icons=true&theme=buefy)
+![Vczoika's github stats](https://github-readme-stats.vercel.app/api?username=vczoika&show_icons=false&theme=synthwave)
 ![Hacktoberfest 2020](https://cdn.discordapp.com/attachments/594033079123705866/767579090055462922/unknown.png)
 
