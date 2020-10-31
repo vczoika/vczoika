@@ -10,8 +10,9 @@
 - Currently running Ubuntu 20.10.    
 - Completed 2020's Hacktoberfest.  
   
+  
 ![Vczoika's github stats](https://github-readme-stats.vercel.app/api?username=vczoika&show_icons=false&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vczoika&layout=compact)](https://github.com/vczoika/github-readme-stats)
-![Hacktoberfest 2020](https://cdn.discordapp.com/attachments/594033079123705866/767579090055462922/unknown.png)
+<img src="https://cdn.discordapp.com/attachments/594033079123705866/767579090055462922/unknown.png" width="300" height="1800">
 
 
