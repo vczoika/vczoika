@@ -7,7 +7,7 @@
 - Wanna talk? send me a message, discord: vczoika#6666  
 - My discord server for learning how to program: https://discord.gg/MZhUsmx (pt-br)  
 - Also learning how to use Linux, Windows made me dumb.  
-- Currently running Ubuntu 20.10.    
+- Currently running Fedora 33.    
 - Completed 2020's Hacktoberfest.  
   
   
