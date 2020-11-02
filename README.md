@@ -1,4 +1,5 @@
-## Hi! 👋 Welcome to my github profile! 
+## Hi!  
+# Welcome to my github profile! 
 
 > Talk is cheap. Show me the code.
   
