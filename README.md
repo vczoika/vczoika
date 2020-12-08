@@ -1,6 +1,5 @@
 ## Hi! Welcome to my github profile! 
 
-> Talk is cheap. Show me the code.
 
 ### I’m currently learning Java and Web Development (Focusing on JS Frameworks for now.).  
 
@@ -23,3 +22,4 @@
 ![Hacktoberfest](https://cdn.discordapp.com/attachments/594033079123705866/767579090055462922/unknown.png)
 
 
+> Talk is cheap. Show me the code.
