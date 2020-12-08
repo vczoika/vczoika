@@ -3,10 +3,12 @@
 
 > Talk is cheap. Show me the code.
 
-I’m currently learning Java and Web Development (Focusing on JS Frameworks for now.). | CS 2º semester - Currently learning Algorithms (with Java) and Web Development (HTML, CSS and JS).
--- | --
-Wanna talk? send me a message, discord: vczoika#6666 | My discord server for learning how to program: https://discord.gg/MZhUsmx (pt-br)
-Also learning how to use Linux, Windows made me dumb | Currently running Linux Mint 20 Ulyana MATE 
+I’m currently learning Java and Web Development (Focusing on JS Frameworks for now.).  
+CS 2º semester - Currently learning Algorithms (with Java) and Web Development (HTML, CSS and JS).  
+Wanna talk? send me a message, discord: vczoika#6666  
+My discord server for learning how to program: https://discord.gg/MZhUsmx (pt-br)  
+Also learning how to use Linux, Windows made me dumb  
+Currently running Linux Mint 20 Ulyana MATE 
 
 ##### Completed 2020's Hacktoberfest.  
   
