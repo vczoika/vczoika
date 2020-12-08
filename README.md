@@ -1,9 +1,8 @@
-## Hi!  
-#### Welcome to my github profile! 
+## Hi! Welcome to my github profile! 
 
 > Talk is cheap. Show me the code.
 
-### I’m currently learning Java and Web Development (Focusing on JS Frameworks for now.).  
+## I’m currently learning Java and Web Development (Focusing on JS Frameworks for now.).  
 
 #### CS 2º semester - Currently learning Algorithms (with Java) and Web Development (HTML, CSS and JS).  
 
@@ -11,7 +10,7 @@
 
 #### My discord server for learning how to program: https://discord.gg/MZhUsmx (pt-br)  
 
-### Also learning how to use Linux, Windows made me dumb  
+#### Also learning how to use Linux, Windows made me dumb  
 
 #### Currently running Linux Mint 20 Ulyana MATE 
 
