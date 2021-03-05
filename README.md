@@ -1,17 +1,17 @@
-## Hi! Welcome to my github profile! 
+## Hi!
 
 
-### I’m currently learning Java and Web Development (Focusing on JS Frameworks for now.).  
+### I’m currently learning Java and Databases. 
 
-#### CS 2º semester - Currently learning Algorithms (with Java) and Web Development (HTML, CSS and JS).  
+#### CS 3º semester - Currently learning Java, Data Structures and Discrete Mathematics. 
 
-#### Wanna talk? send me a message, discord: vczoika#6666  
+#### Wanna talk? send me a message, discord: vczoika#9796 
 
 #### My discord server for learning how to program: https://discord.gg/MZhUsmx (pt-br)  
 
 #### Also learning how to use Linux, Windows made me dumb  
 
-#### Currently running Linux Mint 20 Ulyana MATE 
+#### Currently running Pop!_OS 20.04
 
 
 ##### Completed 2020's Hacktoberfest.  
