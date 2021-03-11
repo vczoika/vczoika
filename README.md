@@ -1,9 +1,9 @@
 ## Hi! I'm Vinicius and welcome to my GitHub profile! I hope you like my projects!
+> Talk is cheap. Show me the code.
 
-
-### I’m currently learning Java and Databases. 
-#### CS 3º semester - Currently learning Java, Data Structures and Discrete Mathematics. 
-#### Wanna talk? send me a message, discord: vczoika#9796 
+### I’m currently learning Java and Databases.
+#### CS 3º semester - Currently learning Java, Data Structures and Discrete Mathematics.
+#### Wanna talk? send me a message, discord: vczoika#9796
 #### Also learning how to use Linux, Windows made me dumb. Currently running Pop!_OS 20.04
 
 
@@ -15,4 +15,4 @@
 ![Hacktoberfest](https://cdn.discordapp.com/attachments/594033079123705866/767579090055462922/unknown.png)
 
 
-> Talk is cheap. Show me the code.
+
