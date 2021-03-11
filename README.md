@@ -1,4 +1,4 @@
-## Hi! I'm Vinicius, AKA V.C or VCZOIKA
+## Hi! I'm Vinicius and welcome to my GitHub profile! I hope you like my projects!
 
 
 ### I’m currently learning Java and Databases. 
