@@ -1,17 +1,10 @@
-## Hi!
+## Hi! I'm Vinicius, AKA V.C or VCZOIKA
 
 
 ### I’m currently learning Java and Databases. 
-
 #### CS 3º semester - Currently learning Java, Data Structures and Discrete Mathematics. 
-
 #### Wanna talk? send me a message, discord: vczoika#9796 
-
-#### My discord server for learning how to program: https://discord.gg/MZhUsmx (pt-br)  
-
-#### Also learning how to use Linux, Windows made me dumb  
-
-#### Currently running Pop!_OS 20.04
+#### Also learning how to use Linux, Windows made me dumb. Currently running Pop!_OS 20.04
 
 
 ##### Completed 2020's Hacktoberfest.  
