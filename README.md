@@ -4,6 +4,7 @@
 ### I’m currently learning Java and Databases.
 #### CS 3º semester - Currently learning Java, Data Structures and Discrete Mathematics.
 #### Wanna talk? send me a message, discord: vczoika#9796
+#### É br e quer conversar com uma galera sobre programação? Colá ai! https://discord.gg/qydeyntwye
 #### Also learning how to use Linux, Windows made me dumb. Currently running Pop!_OS 20.04  
 ##### Completed 2020's Hacktoberfest.  
 
