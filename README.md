@@ -1,8 +1,7 @@
 ## Hi! I'm Vinicius and welcome to my GitHub profile! I hope you like my projects!
-> Talk is cheap. Show me the code.
 
 ### I’m currently learning Java and Databases.
-#### CS 3º semester - Currently learning Java, Data Structures and Discrete Mathematics.
+#### CS 4º semester - Currently learning OS, DBs and Data Structures.
 #### Wanna talk? send me a message, discord: vczoika#9796
 #### É br e quer conversar com uma galera sobre programação? Colá ai! https://discord.gg/qydeyntwye
 #### Also learning how to use Linux, Windows made me dumb. Currently running Linux Mint 20.1 [Cinnamon]
