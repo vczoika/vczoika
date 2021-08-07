@@ -7,7 +7,7 @@
 #### Also learning how to use Linux, Windows made me dumb.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vczoika&layout=compact&theme=synthwave)](https://github.com/vczoika/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vczoika&layout=compact&theme=tokyonight)](https://github.com/vczoika/github-readme-stats)
 
 
 
