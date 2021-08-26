@@ -16,10 +16,10 @@ Pode me chamar no discord!   vczoika#9796  ou Linkedin!
 ## 🚀 Minhas Skills
 
 
-<code><img height="32" src="https://i.imgur.com/wRwJOE9.png" alt="Spring"/></code>
-<code><img height="32" src="https://i.imgur.com/ZkZfTJ6.png" alt="Clojure"/></code>
-<code><img height="32" src="https://i.imgur.com/eqRBoY7.png" alt="Elixir"/></code>
-<code><img height="32" src="https://i.imgur.com/RRTafHw.png" alt="Java"/></code>
+<code><img height="48" src="https://i.imgur.com/wRwJOE9.png" alt="Spring"/></code>
+<code><img height="48" src="https://i.imgur.com/ZkZfTJ6.png" alt="Clojure"/></code>
+<code><img height="48" src="https://i.imgur.com/eqRBoY7.png" alt="Elixir"/></code>
+<code><img height="48" src="https://i.imgur.com/RRTafHw.png" alt="Java"/></code>
 
 ---
 
