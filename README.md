@@ -1,13 +1,30 @@
-## Hi! I'm Vinicius and welcome to my GitHub profile!
+## Olá, meu nome é <strong>Vinicius!</strong>
 
-### I’m currently learning Java and Databases.
-#### CS 4º semester - Currently learning OS, DBs and Data Structures.
-#### Wanna talk? send me a message, discord: vczoika#9796
-#### É br e quer conversar com uma galera sobre programação? Colá ai! https://discord.gg/qydeyntwye
-#### Also learning how to use Linux, Windows made me dumb.
+🔭 Atualmente estudando Spring. Estudando um pouco de Elixir e Clojure também ;D
+
+💬 Quer conversar sobre alguma coisa? 
+
+Pode me chamar no discord!   vczoika#9796  ou Linkedin! 
+<p align="left">  
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vini-sales/" />
+  </a>
+</p>  
+
+----
+
+## 🚀 Minhas Skills
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vczoika&layout=compact&theme=tokyonight)](https://github.com/vczoika/github-readme-stats)
+<code><img height="32" src="https://i.imgur.com/wRwJOE9.png" alt="Spring"/></code>
+<code><img height="32" src="https://i.imgur.com/ZkZfTJ6.png" alt="Clojure"/></code>
+<code><img height="32" src="https://i.imgur.com/eqRBoY7.png" alt="Elixir"/></code>
+<code><img height="32" src="https://i.imgur.com/RRTafHw.png" alt="Java"/></code>
+
+---
+
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
 
 
 
