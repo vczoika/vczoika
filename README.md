@@ -24,7 +24,7 @@ Pode me chamar no discord!   vczoika#9796  ou Linkedin!
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vczoika&show_icons=true)
 
 
 
