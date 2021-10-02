@@ -20,7 +20,7 @@ Pode me chamar no discord!   vczoika#9796  ou Linkedin!
   <img alt="streak" title="streak" src="https://github-readme-stats.vercel.app/api?username=vczoika&show_icons=true&theme=radical&hide_border=true&count_private=true"height="185"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vczoika&theme=radical&layout=compact&bg_color=0d1117&text_color=FFF&hide_border=true" height="220">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vczoika&theme=radical&layout=compact&bg_color=0d1117&text_color=FFF&hide_border=true" height="200">
   </a>
 </p>
 
