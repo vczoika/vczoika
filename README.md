@@ -22,8 +22,8 @@ Pode me chamar no discord!   vczoika#9796  ou Linkedin!
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vczoika&theme=radical&layout=compact&bg_color=0d1117&text_color=FFF&hide_border=true" height="200">
   </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=vczoika&theme=radical&row=1" alt="csilvanp" />
 </p>
-
 
 <!-- ## 🚀 Minhas Skills
 ----
